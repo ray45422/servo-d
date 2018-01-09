@@ -1,4 +1,5 @@
-servo_test
+dub.selections.json
+libservo-d.a
 .dub
 docs.json
 __dummy.html
